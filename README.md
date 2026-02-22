@@ -56,5 +56,5 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
-Feb/22 v8.0.0: Tested Simple Installer. Using supa DB. 
+Feb/22 v8.0.0: Uploaded to releases. Added to web page. Tested Simple Installer. Using cloud DB. 
 
