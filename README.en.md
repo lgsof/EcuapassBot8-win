@@ -46,7 +46,9 @@ EcuapassBot is licensed per country and company. Each license allows installatio
 
 🔗 Commercial information:  
 👉 [**Sitio Empresa Fronteria:** https://www.fronteria.co/](https://www.fronteria.co/)
+
 👉 [**Sitio Producto EcuapassBot:** https://www.fronteria.co/productos/ecuapassbot/](https://www.fronteria.co/productos/ecuapassbot/)
+
 👉 [**Sitio Producto EcuapassDocs:** https://www.fronteria.co/productos/ecuapassdocs/](https://www.fronteria.co/productos/ecuapassdocs/)
 ---
 
