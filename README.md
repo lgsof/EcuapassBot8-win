@@ -56,6 +56,8 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
+Sep/16 v8.0.7: Temporally patched (prms) for AGCX
+
 Jul/10 v8.0.6: Improved Empresa Search Docs access by Web (Cdbni) 
 Jul/10 v8.0.5: Improved Docs access by Web (Cdbni) 
 
