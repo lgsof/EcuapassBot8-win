@@ -56,8 +56,15 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
-Jul/10 v8.0.9: Fixed Ecudocs coordinates
+Sep/28 v8.1.2: Added TCMI support using API
 
+Sep/26 v8.1.1: Starting to add TCMI
+
+Sep/26 v8.1.0: Added API processing (gui, back).
+
+Sep/25 v8.0.9: Added Ecudocs connection. Restore bsc prms chk
+
+Jul/10 v8.0.6: Improved Empresa Search Docs access by Web (Cdbni) 
 Jul/10 v8.0.5: Improved Docs access by Web (Cdbni) 
 
 Jul/08 v8.0.4: Fixed Web doc load.
