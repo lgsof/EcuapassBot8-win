@@ -56,6 +56,8 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
+Oct/15 v8.1.5: TCMI Fixes 02: CHASIS Extraction
+
 Oct/15 v8.1.4: TCMI Fixes: PO Enabled
 
 Sep/29 v8.1.3: New Installer v8.1.3 (TCMI support)
