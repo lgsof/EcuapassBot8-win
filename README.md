@@ -56,6 +56,8 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
+Nov/05/2026 v8.3.0: Testing new CDB format
+
 Oct/30/2026 v8.2.1: Added Input in File Chooser
 
 Oct/30/2026 v8.2.0: Added quota for empresa and installation (GRATIS plan, TCMI case). BD, backend, frontend.
