@@ -56,7 +56,11 @@ EcuapassBot se licencia por país y empresa. Cada licencia incluye instalación 
 ---
 
 ## LOG
-Nov/05/2026 v8.3.0: Testing new CDB format
+Nov/12/2026 v8.3.5: Reverting base class for TSP info (CPI info)
+
+Nov/12/2026 v8.3.3: Tmp branch. getPaisFromDocumento for CDBN. ECUDOCS is a own document type (Coords, info)
+
+Nov/05/2026 v8.3.0: Testing new CDBN format
 
 Oct/30/2026 v8.2.1: Added Input in File Chooser
 
